@@ -42,5 +42,5 @@ Options
 
 -bor --backup creates a backup of the original file in case no output is specified to avoid erasing the original file.
 
--cm or -- compressor method is a flag for  you want to compress  folder or  file  wise  default  0 is not   specified which is  file 
+-cm or -- compressor method is a flag for  compress  folder or  file  wise  by default  0 if flag is  not   specified which is  file 
 wise and  if  status is  1  then folder  wise  compress
